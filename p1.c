@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>//new change
 void main()
 {
 	char ch='a';
